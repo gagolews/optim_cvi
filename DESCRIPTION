@@ -1,0 +1,38 @@
+Package: CVI
+Type: Package
+Title: Cluster Validity Indices
+Version: 0.1
+Date: 2021-08-19
+Authors@R: c(
+    person("Marek", "Gagolewski",
+    role = c("aut", "cre", "cph"),
+    email = "marek@gagolewski.com",
+    comment = c(ORCID = "0000-0003-0637-6028")),
+    person("Maciej", "Bartoszuk", role = "aut",
+    email = "bartoszuk@rexamine.com",
+    comment = c(ORCID = "0000-0001-6088-8273")),
+    person("Anna", "Cena", role = "aut",
+    email = "cena@rexamine.com",
+    comment = c(ORCID = "0000-0001-8697-5383"))
+    )
+Description: Code accompanying the paper
+    Are Cluster Validity Measures (In)valid?.
+License: AGPL-3
+Depends:
+    pso,
+    DEoptim,
+    FNN,
+    picante,
+    genieclust
+Imports:
+    Rcpp (>= 1.0.4)
+Suggests:
+    datasets,
+    testthat,
+    microbenchmark,
+    clusterCrit,
+    clusterSim
+LinkingTo: Rcpp
+Encoding: UTF-8
+SystemRequirements: OpenMP, C++11
+RoxygenNote: 7.1.1
