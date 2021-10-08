@@ -3,7 +3,8 @@
 > Code repository (R package CVI) related to the paper
 > M. Gagolewski, M. Bartoszuk, A. Cena,
 > Are Cluster Validity Measures (In)valid?,
-> *Information Sciences*, 2021, in press.
+> *Information Sciences*, 2021, in press,
+> doi:[10.1016/j.ins.2021.10.004](https://dx.doi.org/10.1016/j.ins.2021.10.004).
 
 
 
