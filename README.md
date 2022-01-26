@@ -2,8 +2,8 @@
 
 > Code repository (R package CVI) related to the paper
 > M. Gagolewski, M. Bartoszuk, A. Cena,
-> Are Cluster Validity Measures (In)valid?,
-> *Information Sciences*, 2021, in press,
+> [Are Cluster Validity Measures (In)valid?](https://raw.githubusercontent.com/gagolews/bibliography/master/preprints/2021cvi.pdf),
+> *Information Sciences* 581:620-636, 2021,
 > doi:[10.1016/j.ins.2021.10.004](https://dx.doi.org/10.1016/j.ins.2021.10.004).
 
 
@@ -27,7 +27,7 @@ validity indices for the same data matrix but different label vectors.
 ## License
 
 
-Copyleft (C) 2020-2021, Marek Gagolewski <https://www.gagolewski.com>
+Copyleft (C) 2020-2022, Marek Gagolewski <https://www.gagolewski.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License
