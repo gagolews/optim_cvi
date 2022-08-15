@@ -6,6 +6,9 @@
 > *Information Sciences* 581:620-636, 2021,
 > doi:[10.1016/j.ins.2021.10.004](https://dx.doi.org/10.1016/j.ins.2021.10.004).
 
+Note that the cluster validity measures discussed in this paper are also avaliable
+in the [`genieclust`](https://genieclust.gagolewski.com/) package for Python and R 
+(since version 1.1.0).
 
 
 Maintainer: [Marek Gagolewski](https://gagolewski.com)
@@ -25,7 +28,6 @@ validity indices for the same data matrix but different label vectors.
 
 
 ## License
-
 
 Copyleft (C) 2020-2022, Marek Gagolewski <https://www.gagolewski.com>
 
